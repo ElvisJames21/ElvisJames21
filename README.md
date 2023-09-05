@@ -21,7 +21,9 @@
 <h3 align="left">About me:</h3>
 <p>I'm an advanced user of Photoshop, I took a bit of Xamarin Form, currently also using Visual Studio Code with JavaScript, and have completed Cisco courses: <a href="https://publuu.com/flip-book/231172/550027">Completed Courses</a></p><br><br>
 
-<img src="tecnologia.jpg" alt="Descripción de la imagen" width="100" height="100">
+<div align="center">
+<img src="tecnologia.jpg" alt="Descripción de la imagen" width="100" height="200">
+</div>
 
 
 
