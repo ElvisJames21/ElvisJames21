@@ -23,6 +23,5 @@
 
 <img src="tecnologia.jpg" alt="Descripción de la imagen" width="100" height="100">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elvisjames21&show_icons=true&locale=en" alt="elvisjames21" /></p>
 
 
