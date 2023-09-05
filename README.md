@@ -22,7 +22,7 @@
 <p>I'm an advanced user of Photoshop, I took a bit of Xamarin Form, currently also using Visual Studio Code with JavaScript, and have completed Cisco courses: <a href="https://publuu.com/flip-book/231172/550027">Completed Courses</a></p><br><br>
 
 <div align="center">
-<img src="tecnologia.jpg" alt="Descripción de la imagen" width="100" height="200">
+<img src="tecnologia.jpg" alt="Descripción de la imagen" width="200" height="100">
 </div>
 
 
