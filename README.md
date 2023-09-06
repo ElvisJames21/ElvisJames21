@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af9941
 <p>I'm an advanced user of Photoshop, I took a bit of Xamarin Form, currently also using Visual Studio Code with JavaScript, and have completed Cisco courses: <a href="https://publuu.com/flip-book/231172/550027"  target="_blank">Completed Courses</a></p><br><br>
 
 <div align="center">
-<img src="tecnologia.jpg" alt="Descripción de la imagen" width="300" height="210">
+<img src="tecnologia.jpg" alt="Descripción de la imagen" width="320" height="190">
 </div>
 
 
