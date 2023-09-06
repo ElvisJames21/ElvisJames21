@@ -22,11 +22,11 @@ src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af9941
 <h3 align="left">About me:</h3>
 <p>I'm an advanced user of Photoshop, I took a bit of Xamarin Form, currently also using Visual Studio Code with JavaScript, and have completed Cisco courses: <a href="https://publuu.com/flip-book/231172/550027" onclick="window.open(this.href, '_blank'); return false;">Completed Courses</a></p><br><br>
 
-<div align="center">
+<div align="left">
     <img src="tecnologia.jpg" alt="Descripción de la imagen" width="320" height="190">
 </div>
 
-<div align="center">
+<div align="right">
     <img src="tecno2.jpg" alt="Descripción de la imagen" width="320" height="190">
 </div>
 
