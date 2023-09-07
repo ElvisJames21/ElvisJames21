@@ -26,7 +26,7 @@
 </div>
 
 <div align="right">
-    <img src="tecno2.jpg" alt="Descripción de la imagen" width="320" height="190">
+    <img src="tecno2.jpg" alt="Descripción de laa imagen" width="320" height="190">
 </div>
 
 
